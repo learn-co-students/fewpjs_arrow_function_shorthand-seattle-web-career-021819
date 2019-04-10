@@ -1,7 +1,7 @@
 
 
-function divide(){
-  return  2000 / 100
+function divide(x, y){
+  return  x / y
 }
 
 let square = (x) => x * x
